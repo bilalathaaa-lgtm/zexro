@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https:/zexro-profile.netlify.app/sitemap.xml
