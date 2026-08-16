@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https:/zexro-profile.netlify.app/sitemap.xml
+Sitemap: https://zexro-profile.netlify.app/sitemap.xml
